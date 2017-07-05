@@ -1,0 +1,167 @@
+body {
+	
+	/*background: #575757;*/
+	/*background: #000033;*/
+}
+
+
+
+
+#container {
+	/*background: #330066;*/
+	width: 1030px;
+	height: 195px;
+	border: 1px solid #fff;
+	margin: 0 auto;
+	margin-top: 0;
+
+}
+
+.logo{
+	width:790px;
+	height:100px;
+	float: center;
+	margin-top: 5px;
+    margin-left:7px;
+    border: 1px solid #fff;
+}
+.bgtittre {
+	background-image: url("images/bgtittre.jpg");
+	width: 500px;
+	height: 10px;
+	border: 10px solid #fff;
+
+}
+
+.tittre {
+	text-align: center;
+	font-family: "century gauthic","helvetica neue",helvetica sans-serif;
+	color: #fff;
+	color:black;
+	font-size: 300%;
+	text-shadow: 0px 0px 12px #ccc;
+	vertical-align: top;
+	
+	width: 700px;
+	margin: 0 auto;
+}
+.soustittre {
+	text-align: center;
+	font-family: "century gauthic","helvetica neue",helvetica sans-serif;
+	color: #fff;
+	color: black;
+	font-size: 150%;
+	text-shadow: 0px 0px 12px #ccc;
+	
+	width: 700px;
+	margin: 0 auto;
+}
+
+/* MENU PRIMAIRE*/
+.menu {
+	list-style: none;
+	margin: 0; /* eventuel */
+	padding: 0; /* eventuel */
+	margin-top:29px;
+	background: #DD5020;
+	
+}
+ul {
+	position: relative;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.menu  li {
+	display: inline-block;
+	vertical-align: top;
+	width: 200px;
+	height: 40px;
+	border-right: 1px solid #000;
+}
+.menu  li  a {
+	display: block;/*  */
+	color: #000;
+	text-decoration: none;
+	font-family: "century gauthic","helvetica neue",helvetica sans-serif;
+	font-weight: bold;
+	width: inherit;
+	height: inherit;
+	/*border: 1px solid #fff;*/ /* eventuel , voir background dans nav*/
+	text-align: center;
+	line-height: 40px;
+
+}
+.menu  li:hover  a {
+	background-color: #006600;
+	color: #fff;
+
+}
+
+/* MENU SECONDAIRE*/
+.menu  li  .sousmenu {
+	background: #161616;
+	display: none;
+}
+.menu  li:hover  .sousmenu {
+	display: block;
+}
+.menu > li > .sousmenu > li {
+	width: inherit;
+	height: 40px;
+}
+
+.menu  li  .sousmenu  li  a {
+	display: block;
+	width: inherit;
+	height: inherit;
+	/*border: 1px solid #fff;*/
+	line-height: 40px;
+	text-align: center;
+	color: #fff;
+	text-decoration: none;
+}
+.menu  li  .sousmenu  li:hover  a {
+	background: #DD5020;
+	color: #000;
+
+}
+.bienvenue {
+	display: none;
+	text-decoration: blink;
+	text-align: center;
+	color: black;
+	font-family: "century gauthic","helvetica neue",helvetica sans-serif;
+	font-size: 150%;
+	border: 1px solid #fff;
+	font-weight: bold;
+	margin: 0 auto;
+	width: 1030px;
+}
+
+.slideshow {
+	
+   float: center;
+   width: 1000px;
+   height: 450px;
+   overflow: hidden;
+   border: 3px solid #F2F2F2;
+   margin: 0 auto;
+	margin-top: 0;
+   position: relative;
+   z-index: -1;
+}
+
+.slideshow ul {
+    /* 4 images donc 4 x 100% */
+    display: inline-block;
+   width: 350px;
+   height: 4500px;
+   padding:0; 
+   list-style: none;
+}
+.slideshow li {
+   float: center;
+
+}
+

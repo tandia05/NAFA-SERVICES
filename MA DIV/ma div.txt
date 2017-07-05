@@ -1,0 +1,42 @@
+$('#popup').animate({
+		opacity: 1,
+		width: 200,
+		height: 200
+	},1000);
+
+
+#popup {
+	width: 60px;
+	height: 60px;
+	background-color: pink;
+	border: 1px orange solid;
+	padding: 10px;
+	position: absolute;
+	margin-left: 200px;
+	margin-top: 10px;
+	opacity: 0;
+}
+zepto
+module
+fx.js
+
+
+*******************************************
+drupal.org
+Download & Extend
+Download Drupal 8.3.3
+
+conf du site
+
+
+
+
+
+
+
+
+
+
+
+drupal : configuration op cache
+zend_extention ="c:/wamp64/bin/php/php5.6.25/ext/php_opcache.dll

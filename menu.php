@@ -14,12 +14,11 @@ include "includes/header.php"
 </head>
 <body >
  
-  <p class="bienvenue">
-  Bienvenue sur le site de NAFASERVICES  <br>
-     
-     
-  </p>
-  <br>
+  <div class="bienvenue">
+ <h3><strong> Pour votre bien-être et votre confort au quotidien !</strong></h3>
+
+  </div>
+
        <div class="slideshow" >
          <ul>
             <li><img src="images/imgmenu/imagem1.jpeg" alt="" width="1000" height="450" /></li>

@@ -24,13 +24,13 @@ include "includes/header.php"
             <li><img src="images/imgmenu/imagem1.jpeg" alt="" width="1000" height="450" /></li>
             <li><img src="images/imgmenu/imagem2.jpg" alt="" width="1000" height="450" /></li>
             <li><img src="images/imgmenu/imagem3.jpeg" alt="" width="1000" height="450" /></li>
-            <li><img src="images/imgmenu/imagem4.jpeg" alt="" width="1000" height="450" /></li>
+            <li><img src="images/imgmenu/imagem4.jpg" alt="" width="1000" height="450" /></li>
             <li><img src="images/imgmenu/imagem5.jpeg" alt="" width="1000" height="450" /></li>
             <li><img src="images/imgmenu/imagem6.jpeg" alt="" width="1000" height="450" /></li>
             <li><img src="images/imgmenu/imagem7.jpeg" alt="" width="1000" height="450" /></li>
-             <li><img src="images/imgmenu/imagem8.jpeg" alt="" width="1000" height="450" /></li>
-              <li><img src="images/imgmenu/imagem9.jpeg" alt="" width="1000" height="450" /></li>
-               <li><img src="images/imgmenu/imagem10.jpeg" alt="" width="1000" height="450" /></li>
+            <li><img src="images/imgmenu/imagem8.jpeg" alt="" width="1000" height="450" /></li>
+            <li><img src="images/imgmenu/imagem9.jpeg" alt="" width="1000" height="450" /></li>
+            <li><img src="images/imgmenu/imagem10.jpeg" alt="" width="1000" height="450" /></li>
          </ul>
     </div>
 
@@ -49,6 +49,6 @@ include "includes/header.php"
 </script>
 
 
-<?php include "includes/footer.php" ?>
+
 </body>
 </html>

@@ -1,4 +1,13 @@
 $(document).ready(function(){
+    $(function(){
+        $("#monBouton").click(function(){
+            $("html, body").animate({scrollTop: 0},"slow");
+        });
+    });
+});
+
+
+$(document).ready(function(){
     
     var $nom = $('#nom'),
         $prenom = $('#prenom'),
@@ -123,26 +132,3 @@ $(document).ready(function(){
 
 });
 
-$('#btnTest').on('click', function() {
-    $(this).next('ul').toggle();
-
-    console.log('ok');
-    //$('#popup').css('opacity', 1); // non animée
-    //$('#popup').css('width', 200); // non animée
-
-    $('#popup').animate({
-        opacity: 1,
-        width: 200,
-        height: 200
-    }, 500, 'ease-out');
-    
-});
-
-
-
-
-$(function(){
-   $('#tonBoutton').click(function(){
-      $('#tonDiv').toggle() // AFFICHE ET CACHE A CHAQUE CLIQUE SUR LE BOUTTON
-   });
-});

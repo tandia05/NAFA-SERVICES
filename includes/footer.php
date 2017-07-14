@@ -15,7 +15,9 @@
 
 <footer>
 	<div id="footer">
-		
+		<p>
+			<center><input type="button" value="remonter" id="monBouton" /></center>
+		</p>
 	</div>
 	
 </footer>

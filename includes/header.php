@@ -12,10 +12,11 @@ session_start();
    <meta name="viewport" content="width=device-width, initial-scale=1">
 
    
-   <script type="text/javascript" src="js/script.js"></script>
+<!--    <script type="text/javascript" src="js/script.js"></script> -->
    <script type="text/javascript" src="js/jquery.min.js"></script>
    <script type="text/javascript" src="js/zepto.min.js"></script>
    <script type="text/javascript" src="js/lodash.js"></script>
+    <script type="text/javascript" src="js/script.js"></script>
   
   <!--  <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"> -->
    <link rel="stylesheet" type="text/css" href="stylesheet/bootstrap.min.css">
@@ -61,8 +62,8 @@ session_start();
       	<a href="">Servicess</a>
       	<ul class="sousmenu">
       		<li><a href="presentation.php">Prestations</a></li>
+      		<li><a href="prestation.php">Nos prestations</a></li>
       		<li><a href="">Encadrement</a></li>
-      		<li><a href=""></a></li>
       		<li><a href=""></a></li>
       	</ul>
       </li>

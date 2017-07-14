@@ -4,8 +4,25 @@ body {
 	/*background: #000033;*/
 }
 
+#footer { 
+	background: url(../img/footer.png) no-repeat;
+	width: 100%;
+	height: 70px;
+	background: #006600;
+	bottom: 0;
+	position: fixed;
+	/*width: 1024px;*/	
+}
+#monBouton {
+	border-radius:12px 0 12px 0;
+	background: #d34836;
+	border:none;
+	color:#fff;
+	font:bold 12px Verdana;
+	padding:6px 0 6px 0;
 
 
+}
 
 #container {
 	/*background: #330066;*/
@@ -18,11 +35,11 @@ body {
 }
 
 .logo{
+	float: center;
 	width:790px;
 	height:100px;
-	float: center;
 	margin-top: 5px;
-    margin-left:7px;
+    margin-left:100px;
     border: 1px solid #fff;
 }
 .bgtittre {
@@ -135,7 +152,133 @@ ul {
 	vertical-align: top
 	width: 700px;
 	margin: 0 auto;
+}
 
+/* .for{float: center;margin: 0 auto;width: 1030; height: 450}*/
+ .for{width: 1030px;height: 620px;;margin: 0 auto;margin-top: 0;}
+    form#contact{border:2px solid orange;width:100%;padding:1em}  
+    p#msg,p#adr,p#obj{border:2px solid green;margin-right:10%;padding:10px}  
+    p#msg textarea{border:2px solid orange;height:10em;width:80%}  
+    p#adr input,p#obj input{border:2px solid orange}  
+    p.bt{text-align:center}  
+    p.bt input{border:1px red solid;width:50%}  
+
+.tcontact {
+	width: 1030px;
+	height: 70px;
+	font-family: "century gauthic","helvetica neue",helvetica sans-serif;
+	color: #006600;
+	border: 1px solid #fff;
+	margin: 0 auto;
+	margin-top: 0;
+}
+/*PAGES PRESENTATION*/
+.tpresentation {
+	width: 1030px;height: 70px;font-size: 80%;
+	font-family: "century gauthic","helvetica neue",helvetica sans-serif;
+	color: #006600;border: 1px solid #fff;margin: 0 auto;margin-top: 0;}
+
+.cpresentation {
+	width: 1030px;height: 150px;
+	border: 1px solid #fff;margin: 0 auto;margin-top: 0;}
+
+.cpresentationfonct {
+	width: 1030px;height: 230px;
+	border: 1px solid #fff;margin: 0 auto;margin-top: 0;}
+
+.cpresentationpers {
+	width: 1030px;height: 110px;
+	border: 1px solid #fff;margin: 0 auto;margin-top: 0;}
+
+.cpresentationrecrut {
+	width: 1030px;height: 70px;
+	border: 1px solid #fff;margin: 0 auto;margin-top: 0;}
+
+.gauche {float: left;}
+.milieu {float: left;margin-left: 90px;}
+.droite {float: left; margin-left: 150px;}
+
+.cpresentationrecrutement {
+	width: 1030px;height: 70px;
+	border: 1px solid #fff;margin: 0 auto;margin-top: 0;}
+
+.cpresentationrecrutement1 {
+	width: 1030px;height: 40px;
+	border: 1px solid #fff;margin: 0 auto;margin-top: 0;}
+
+.cpresentationeng {
+	width: 1030px;height: 70px;
+	border: 1px solid #fff;margin: 0 auto;margin-top: 0;}
+
+
+.gaucheEng {float: left;width: 500px;height: 450px}
+.droiteEng {float: right;}
+
+/*PRESTATIONS*/
+.tprestation {
+	width: 1030px;height: 70px;font-size: 80%;
+	font-family: "century gauthic","helvetica neue",helvetica sans-serif;
+	color: #DD5020;border: 1px solid #fff;margin: 0 auto;margin-top: 0;}
+
+.cprestation1 {
+	width: 1030px;height: 30px;
+	border: 1px solid #fff;margin: 0 auto;margin-top: 0;}
+
+.stprestation {
+	width: 1030px;height: 50px;font-size: 80%;
+	font-family: "century gauthic","helvetica neue",helvetica sans-serif;
+	color: #006600;border: 1px solid #fff;margin: 0 auto;margin-top: 0;}
+
+.cprestation2 {
+	width: 1030px;height: 70px;
+	border: 1px solid #fff;margin: 0 auto;margin-top: 0;}
+
+li.liG {float: left;width: 40%;}
+li.liD {float: left;width: 40%;margin-left: 90px;}
+
+.stprestation2 {
+	width: 1030px;height: 50px;font-size: 80%;
+	font-family: "century gauthic","helvetica neue",helvetica sans-serif;
+	color: #DD5020;border: 1px solid #fff;margin: 0 auto;margin-top: 0;}
+
+.cprestation3 {
+	width: 1030px;height: 50px;
+	border: 1px solid #fff;margin: 0 auto;margin-top: 0;}
+
+.cprestation4 {
+	width: 1030px;height: 70px;
+	border: 1px solid #fff;margin: 0 auto;margin-top: 0;}
+
+ul.ULG {float: left;width: 30%;}
+ul.ULC {float: left;width: 30%;margin-left: 90px;}
+ul.ULD {float: left;width: 30%;margin-left: 90px;}
+
+.cprestation5 {
+	width: 1030px;height: 250px;
+	border: 1px solid #fff;margin: 0 auto;margin-top: 0;}
+
+ul.ULG1 {float: left;width: 45%;}
+
+
+
+/*PAGE PLAN*/
+.tplan {
+	width: 1030px;
+	height: 70px;
+	font-size: 80%;
+	font-family: "century gauthic","helvetica neue",helvetica sans-serif;
+	color: #006600;
+	border: 1px solid #fff;
+	margin: 0 auto;
+	margin-top: 0;
+}
+.plan {
+	float: center;
+	width: 1030px;
+	height: 450px;
+	border: 1px solid #fff;
+	margin: 0 auto;
+	margin-left: 100;
 }
 
 .slideshow {

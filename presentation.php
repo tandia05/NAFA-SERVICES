@@ -120,8 +120,7 @@ include 'includes/header.php';
 		</div>
 		
 	</div>
-	<p><h5> Garde de nuit :</h5></p>
-	<p><h5> Nous assurons des gardes et des accompagnements de nuit au domicile de personnes malades, seules ou en fin de vie.</h5></p>
+	
 
 
 

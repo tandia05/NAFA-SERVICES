@@ -44,7 +44,7 @@ include 'includes/header.php';
 	</ul>	
 </div>
 <div class="stprestation2"><h3>Accompagnement pour les activités de la vie sociale :</h3></div>
-<div >
+
 <div class="cprestation5">
 	<ul class="ULG1" style="list-style-type:disc;">
 	<li><h5>Accompagnement dans les activités de loisirs et de la vie sociale,</h5></li>
@@ -60,7 +60,7 @@ include 'includes/header.php';
 
 </div>
 <div class="cprestation5">
-	<p><h5> Garde de nuit :</h5></p>
+	<p><h5><strong> Garde de nuit :</strong></h5></p>
 	<p><h5> Nous assurons des gardes et des accompagnements de nuit au domicile de personnes malades, seules ou en fin de vie.</h5></p>
 </div>
 

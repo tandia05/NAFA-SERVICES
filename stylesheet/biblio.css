@@ -259,7 +259,41 @@ ul.ULD {float: left;width: 30%;margin-left: 90px;}
 
 ul.ULG1 {float: left;width: 45%;}
 
+.tencadrement {
+	width: 1030px;height: 70px;font-size: 80%;
+	font-family: "century gauthic","helvetica neue",helvetica sans-serif;
+	color: #006600;border: 1px solid #fff;margin: 0 auto;margin-top: 0;}
 
+.cencadrement1 {
+	width: 1030px;height: 20px;
+	border: 1px solid #fff;margin: 0 auto;margin-top: 0;}
+
+.sencadrement {
+	width: 1030px;height: 70px;font-size: 80%;
+	font-family: "century gauthic","helvetica neue",helvetica sans-serif;
+	color: #DD5020;border: 1px solid #fff;margin: 0 auto;margin-top: 0;}
+
+.cencadrement2 {
+	width: 1030px;height: 120px;
+	border: 1px solid #fff;margin: 0 auto;margin-top: 0;}
+
+ul.ULEncG {float: left;width: 30%;}
+ul.ULEncC {float: left;width: 30%;margin-left: 50px;}
+ul.ULEncD {float: left;width: 30%;margin-left: 90px;}
+
+.cencadrement3 {
+	width: 1030px;height: 30px;
+	border: 1px solid #fff;margin: 0 auto;margin-top: 0;}
+
+/*FISCALITE*/
+.tfiscalite {
+	width: 1030px;height: 70px;font-size: 80%;
+	font-family: "century gauthic","helvetica neue",helvetica sans-serif;
+	color: #DD5020;border: 1px solid #fff;margin: 0 auto;margin-top: 0;}
+
+.cfiscalite {
+	width: 1030px;height: 120px;
+	border: 1px solid #fff;margin: 0 auto;margin-top: 0;}
 
 /*PAGE PLAN*/
 .tplan {

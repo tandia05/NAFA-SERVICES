@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+
+</head>
+<body>
+
+The first time I saw Luna DeLune, she 
+<input type="text" name="" autocomplete="off" autocorrect="off" autocapitalize="off" maxlength="70" size="20" title="teeth her brushed had" value="teeth her brushed had" writeonly="" /> . <br/>
+We <input id="shuffle" type="text" name=""  autocapitalize="off" maxlength="70" size="20" value="when " value="when watched television" onclick="myFunction()" writeonly="" /> you called.<br/>
+ <!-- ... -->
+ 
+ 
+ 
+ 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+	var str ='when watched television'.split(' ');
+            
+	/*$('.shuffle').split('str', ' ');*/
+ });
+</script>
+<input type="text" name="" value="mm" id="shuffle" onclick="myFunction()">Try it
+
+<style type="text/css">
+    #shuffle {background-color: blue;}
+</style>
+
+
+<script>
+function myFunction() 
+{
+    var str = "when watched television";
+    var res = str.split(" ");
+   
+    document.getElementById("shuffle").value = res;
+    res =  document.getElementById("shuffle").value;
+    res.backgroundColor = "white";
+    res.style.display = 'none';
+    res.style.position = "relative";
+    res.style.top ="-24px"; 
+    res.style.whiteSpace = "nowrap";
+}
+</script>
+
+
+
+</body>
+</html>

@@ -295,6 +295,37 @@ ul.ULEncD {float: left;width: 30%;margin-left: 90px;}
 	width: 1030px;height: 120px;
 	border: 1px solid #fff;margin: 0 auto;margin-top: 0;}
 
+/*NOS TARIFS*/
+.tarif {
+	width: 1030px;height: 70px;font-size: 80%;
+	font-family: "century gauthic","helvetica neue",helvetica sans-serif;
+	color: #DD5020;border: 1px solid #fff;margin: 0 auto;margin-top: 0;}
+
+.tarif1 {
+	width: 1030px;height: 30px;font-size: 80%;
+	font-family: "century gauthic","helvetica neue",helvetica sans-serif;
+	color: black;border: 1px solid #fff;margin: 0 auto;margin-top: 0;}
+
+.tarif2 {
+	width: 1030px;height: 70px;font-size: 80%;
+	font-family: "century gauthic","helvetica neue",helvetica sans-serif;
+	color: #006600;border: 1px solid #fff;margin: 0 auto;margin-top: 0;}
+
+.tarifs {
+	width: 1030px;height: 250px;
+	border: 1px solid #fff;margin: 0 auto;margin-top: 0;}
+
+.tarifG1 {float: left;width: 250px;}
+.tarifD1 {float: left;width: 250px;margin-left: 280px;}
+
+.tarifs1 {
+	width: 1030px;height: 120px;
+	border: 1px solid #fff;margin: 0 auto;margin-top: 0;}
+
+.ctarif {
+	width: 1030px;height: 250px;
+	border: 1px solid #fff;margin: 0 auto;margin-top: 0;}
+
 /*PAGE PLAN*/
 .tplan {
 	width: 1030px;

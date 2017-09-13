@@ -70,7 +70,7 @@ session_start();
       <li>
       	<a href="">Tarifs</a>
       	<ul  class="sousmenu">
-      		<li><a href="">Nos tarifs</a></li>
+      		<li><a href="tarif.php">Nos tarifs</a></li>
       		<li><a href="">Mardi</a></li>
       		<li><a href="">Mercredi</a></li>
       		<li><a href="">Jeudi</a></li>

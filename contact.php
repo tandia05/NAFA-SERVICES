@@ -15,8 +15,8 @@ $destinataire='mohamedtandia05@gmail.com';
 <div class="for">
 <div class="tcontact"><h2 >Contact</h2>  </div>
 <?php  
-/*$Previsualiser='<p class="bt">  
-<input type="submit" name="previsualiser" tabindex="3" value="Prévisualiser"></p>';  */
+$Previsualiser='<p class="bt">  
+<input type="submit" name="previsualiser" tabindex="3" value="Prévisualiser"></p>';  
 $Envoi="\n".'<p class="bt">  
 <input name="envoi" tabindex="4" value="Envoyer" type="submit"></p>';  
 if (isset($_POST['message']))  
@@ -89,7 +89,7 @@ if (isset($_POST['message']))
             }  
         elseif(!empty($envoi))  
             {  
-              $objet='[SITE] : '.$objet;  
+              $objet='[SITE] : '.$objet;  $mail="";
               $headers='From:'.$votremail."\r\n".'To:'.$mail."\r\n".'Subject:'.$objet."\r\n".'Content-type:text/plain;charset=iso-8859-1'."\r\n".'Sent:'.date('l, F d, Y H:i');  
               if(mail($destinataire,$objet,$message,$headers))  
               {  
@@ -113,7 +113,7 @@ else
   echo '<p>Vous pouvez utiliser ce formulaire pour nous contacter.</p>';  
   $votremail='';$message='';  
   }  
-$bas_formulaire=$Previsualiser.$Envoi;  
+ $bas_formulaire=$Previsualiser.$Envoi;  
 ?>  
 
 <form id='contact' method="post" action="<?php echo $_SERVER['PHP_SELF'];?>" enctype="multipart/form-data" width="1030" height="450">  
@@ -130,7 +130,7 @@ $bas_formulaire=$Previsualiser.$Envoi;
 </form> 
 </div> 
 
-
+<br><br><br>
 <?php
 include 'includes/footer.php';
 ?>

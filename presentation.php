@@ -74,7 +74,7 @@ include 'includes/header.php';
 		</div>
 	</div>
 
-<div class="tpresentation"><h2>Recrutement::</h2></div>
+<div class="tpresentation"><h2>Recrutement :</h2></div>
 	<div class="cpresentationrecrutement">
 		<div class="gauche">
 			<ul style="list-style-type:disc;">

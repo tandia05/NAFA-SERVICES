@@ -27,7 +27,9 @@ session_start();
   <header>
    <div id="container">
 
-    <div class="logo"><img src="images/imgmenu/logo.png" width="790" height="110" /></div>
+    <div class="logo"><img src="images/imgmenu/logo.PNG" width="790" height="110" />
+    </div>
+
    <!--  <div class="bgtittre"  background="../images/bgtittre.jpg">
        
     </div > -->
@@ -50,7 +52,7 @@ session_start();
    <nav class="menu">
    <ul >
       <li>
-      	<a href="menu.php">Accueil</a>
+      	<a href="index.php">Accueil</a>
       	<!-- <ul class="sousmenu">
       		<li><a href="">Bonjour</a></li>
       		<li><a href="">Merci</a></li>
@@ -71,18 +73,18 @@ session_start();
       	<a href="">Tarifs</a>
       	<ul  class="sousmenu">
       		<li><a href="tarif.php">Nos tarifs</a></li>
-      		<li><a href="">Mardi</a></li>
+      		<!-- <li><a href="">Mardi</a></li>
       		<li><a href="">Mercredi</a></li>
-      		<li><a href="">Jeudi</a></li>
+      		<li><a href="">Jeudi</a></li> -->
       	</ul>
       </li>
       <li>
       	<a href="">Fiscalité</a>
       	<ul  class="sousmenu">
       		<li><a href="fiscalite.php">Information fiscale</a></li>
-      		<li><a href="">Fevrier</a></li>
+      	<!-- 	<li><a href="">Fevrier</a></li>
       		<li><a href="">Mars</a></li>
-      		<li><a href="">Avril</a></li>
+      		<li><a href="">Avril</a></li> -->
       	</ul>
       </li>
       <li>
@@ -90,8 +92,8 @@ session_start();
       	<ul  class="sousmenu">
       		<li><a href="contact.php">Nous contacter</a></li>
       		<li><a href="plan.php">Nous trouver</a></li>
-      		<li><a href="">bbbbbbb</a></li>
-      		<li><a href="">xxxxxx</a></li>
+      		<!-- <li><a href="">bbbbbbb</a></li>
+      		<li><a href="">xxxxxx</a></li> -->
       	</ul>
       </li>
    	

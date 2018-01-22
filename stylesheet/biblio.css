@@ -42,13 +42,14 @@ body {
     margin-left:100px;
     border: 1px solid #fff;
 }
-.bgtittre {
+
+/*.bgtittre {
 	background-image: url("images/bgtittre.jpg");
 	width: 500px;
 	height: 10px;
 	border: 10px solid #fff;
 
-}
+}*/
 
 .tittre {
 	text-align: center;
@@ -165,7 +166,7 @@ ul {
 
 .tcontact {
 	width: 1030px;
-	height: 70px;
+	height: 200px;
 	font-family: "century gauthic","helvetica neue",helvetica sans-serif;
 	color: #006600;
 	border: 1px solid #fff;

@@ -1,0 +1,19 @@
+<?php
+function connect()
+	{
+		$db = new PDO("mysql:host=localhost;
+				dbname=formation-poec","root","");
+		return $db;
+	}
+?>
+
+delphine.bandama@mind7.fr
+
+
+adel.nafaservice@gmail.com
+
+0687942462
+cf281971
+
+1007
+321

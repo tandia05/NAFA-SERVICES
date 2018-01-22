@@ -13,7 +13,7 @@ include 'includes/header.php';
 <div class="tarif2"><h3>Preparation des repas-Courses-Toilette et habillage:</h3></div>
 <div class="tarifs">
 	<div class="tarifG1">
-		<img src="images/imgmenu/tarif-img1.png" alt="" width="500" height="250" />	
+		<img src="images/imgmenu/tarif-img1.PNG" alt="" width="500" height="250" />	
 	</div>
 	<div class="tarifD1">
 		<img src="images/imgmenu/imagem1.jpeg" alt="" width="500" height="250" />
@@ -22,15 +22,15 @@ include 'includes/header.php';
 <div class="tarif2"><h3>Ménage-repassage:</h3></div>
 <div class="tarifs">
 	<div class="tarifG1">
-		<img src="images/imgmenu/tarif-img2.png" alt="" width="500" height="250" />	
+		<img src="images/imgmenu/tarif-img2.PNG" alt="" width="500" height="250" />	
 	</div>
 	<div class="tarifD1">
-		<img src="images/imgmenu/imagem9.jpeg" alt="" width="500" height="250" />
+		<img src="images/imgmenu/imagem9.jpg" alt="" width="500" height="250" />
 	</div>
 </div>
 <div class="tarif2"><h3>Grand Ménage:</h3></div>
 <div class="tarifs1">
-	<img src="images/imgmenu/tarif-img3.png" alt="" width="500" height="100" />
+	<img src="images/imgmenu/tarif-img3.PNG" alt="" width="500" height="100" />
 </div>
 <div class="tarif2"><h3>Garde de nuit:</h3></div>
 <div class="ctarif">

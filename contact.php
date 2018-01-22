@@ -13,7 +13,13 @@ $destinataire='mohamedtandia05@gmail.com';
 </head>  
 <body style="direction: ltr;">  
 <div class="for">
-<div class="tcontact"><h2 >Contact</h2>  </div>
+<div class="tcontact"><h2 >Contact</h2>  
+<h4>9 Passege de Crimé,75019, Paris</h4>
+<h4>Tel: 09 67 23 95 6 - 06 8794 24 62 - 06 80 93 69 00</h4>
+<h4>Fax: 01 44 72 95 66</h4>
+<h4>Mail: nafaservice@gmail.com  / Site:www.nafaservices-personnes.fr </h4>
+<h4></h4>
+</div>
 <?php  
 $Previsualiser='<p class="bt">  
 <input type="submit" name="previsualiser" tabindex="3" value="Prévisualiser"></p>';  
@@ -128,6 +134,7 @@ else
   </label></p>  
 <?php echo $bas_formulaire;?>  
 </form> 
+<br><br><br>
 </div> 
 
 <br><br><br>

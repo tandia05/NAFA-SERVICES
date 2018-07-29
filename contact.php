@@ -14,8 +14,8 @@ $destinataire='mohamedtandia05@gmail.com';
 <body style="direction: ltr;">  
 <div class="for">
 <div class="tcontact"><h2 >Contact</h2>  
-<h4>9 Passege de Crimé,75019, Paris</h4>
-<h4>Tel: 09 67 23 95 6 - 06 8794 24 62 - 06 80 93 69 00</h4>
+<h4>9,Passage de Crimée,75019,Paris</h4>
+<h4>Tel: 09 67 23 95 66 - 06 87 94 24 62 - 06 80 93 69 00</h4>
 <h4>Fax: 01 44 72 95 66</h4>
 <h4>Mail: nafaservice@gmail.com  / Site:www.nafaservices-personnes.fr </h4>
 <h4></h4>

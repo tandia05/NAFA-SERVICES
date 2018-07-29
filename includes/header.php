@@ -61,28 +61,28 @@ session_start();
       	</ul> -->
       </li>
       <li>
-      	<a href="">Servicess</a>
+      	<a href="">Services</a>
       	<ul class="sousmenu">
       		<li><a href="presentation.php">Presentation</a></li>
       		<li><a href="prestation.php">Nos prestations</a></li>
       		<li><a href="encadrement.php">Encadrement</a></li>
-      		<li><a href=""></a></li>
+      		
       	</ul>
       </li>
       <li>
-      	<a href="">Tarifs</a>
+      	<a href="tarif.php">Tarifs</a>
       	<ul  class="sousmenu">
-      		<li><a href="tarif.php">Nos tarifs</a></li>
-      		<!-- <li><a href="">Mardi</a></li>
+      	<!--	<li><a href="tarif.php">Nos tarifs</a></li>
+      		 <li><a href="">Mardi</a></li>
       		<li><a href="">Mercredi</a></li>
       		<li><a href="">Jeudi</a></li> -->
       	</ul>
       </li>
       <li>
-      	<a href="">Fiscalité</a>
+      	<a href="fiscalite.php">Fiscalité</a>
       	<ul  class="sousmenu">
-      		<li><a href="fiscalite.php">Information fiscale</a></li>
-      	<!-- 	<li><a href="">Fevrier</a></li>
+      	<!-- 	<li><a href="fiscalite.php">Information fiscale</a></li>
+      		<li><a href="">Fevrier</a></li>
       		<li><a href="">Mars</a></li>
       		<li><a href="">Avril</a></li> -->
       	</ul>

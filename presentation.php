@@ -12,7 +12,7 @@ include 'includes/header.php';
 
 <div class="cpresentation">
 <p><h5>
-	Crée en 2007, NAFASERVICES est l'un des leaders du service d'aide à domicile. De l'aide ponctuelle à la prise en charge, 24h/24, NAFASERVICES est là pour vous offrir des formules adaptées à vos besoins.</h5>
+	Créée en 2007, NAFASERVICES est l'un des leaders du service d'aide à domicile. De l'aide ponctuelle à la prise en charge, 24h/24, NAFASERVICES est là pour vous offrir des formules adaptées à vos besoins.</h5>
 </p>	
 
 <p><h5>
@@ -102,9 +102,9 @@ include 'includes/header.php';
 	<div class="cpresentationeng">
 		<div class="gaucheEng">
 			<p><h5>
-				Les services à la personne nécessitent sérieux et professionnalisme. Toute 	entreprise souhaitant exercer ces activités doit y être autorisée par le Préfet de département.
+				Les services à la personne nécessitent sérieux et professionnalisme. Toute 	entreprise souhaitant exercer ces activités doit y être autorisée par le conseil départemental.
 			</h5></p>
-			<p><h5><strong>Cet agrément est : </strong></h5></p>
+			<p><h5><strong>Cete autorisation est : </strong></h5></p>
 			<ul style="list-style-type:disc;">
 				<li><h5>
 					La condition pour vous faire bénéficier des avantages fiscaux et sociaux définis par la loi sur les Services à la Personne.</h5></li>

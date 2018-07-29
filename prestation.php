@@ -22,7 +22,7 @@ include 'includes/header.php';
 			Réfection du lit, changement des draps.</h5></li>
 	</ul>	
 </div>
-<div class="stprestation"><h3>A. Entretien du cadre de vie</h3></div>
+<div class="stprestation"><h3>B. Assistance aux personnes</h3></div>
 <div class="stprestation2"><h3>Accompagnement dans les actes de la vie quotidienne :</h3></div>
 <div class="cprestation3">
 	<ul style="list-style-type:disc;">
